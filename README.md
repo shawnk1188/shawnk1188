@@ -87,6 +87,12 @@ But beyond the day job — I build. Nights and weekends you'll find me exploring
 
 > This is where I experiment — no sprints, no tickets, just curiosity-driven engineering.
 
+### docpilot — Production RAG system
+Built a three-phase RAG system measuring 2x retrieval improvement
+(0.465 → 0.992) with hybrid BM25 + vector search and cross-encoder reranking.
+Evaluated with faithfulness 0.745 and context precision 0.840.
+→ github.com/shawnk1188/docpilot
+
 ### LLM Task Manager
 A production-grade conversational task manager powered by **Google ADK + Gemini Flash**.
 Talk to your lists through a chat interface — no forms, no clicks.
