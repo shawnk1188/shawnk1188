@@ -91,7 +91,9 @@ But beyond the day job — I build. Nights and weekends you'll find me exploring
 Built a three-phase RAG system measuring 2x retrieval improvement
 (0.465 → 0.992) with hybrid BM25 + vector search and cross-encoder reranking.
 Evaluated with faithfulness 0.745 and context precision 0.840.
-→ → [View repository](github.com/shawnk1188/docpilot)
+
+
+→ [View repository](https://github.com/shawnk1188/docpilot)
 
 ### LLM Task Manager
 A production-grade conversational task manager powered by **Google ADK + Gemini Flash**.
