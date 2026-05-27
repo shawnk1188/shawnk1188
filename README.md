@@ -244,7 +244,7 @@ Production-grade local inference engine supporting async orchestration, structur
 # 📫 Connect With Me
 
 - GitHub: https://github.com/shawnk1188
-- LinkedIn: Add your LinkedIn profile
+- LinkedIn: https://www.linkedin.com/in/sukak/
 - Portfolio/Blog: Add your website/blog
 
 ---
