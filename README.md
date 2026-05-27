@@ -200,8 +200,7 @@ I enjoy collaborating on:
 # 📫 Connect With Me
 
 - GitHub: https://github.com/shawnk1188
-- LinkedIn: Add your LinkedIn URL here
-- Portfolio/Blog: Add your website/blog here
+- LinkedIn: https://www.linkedin.com/in/sukak/
 
 ---
 
