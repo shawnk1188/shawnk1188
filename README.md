@@ -1,216 +1,261 @@
 # Hi, I'm Sushanth 👋
 
-Senior Software Engineer with 14+ years of experience building scalable distributed systems, cloud-native platforms, and AI-enabled backend architectures.
+Engineering leader with 14+ years of experience architecting scalable distributed systems, AI platforms, and cloud-native backend infrastructure across Fortune 500 organizations.
 
-I specialize in designing high-performance systems that combine:
-- AI Infrastructure & GenAI Platforms
+I specialize in building production-grade AI systems that combine:
 - Distributed Systems & Event-Driven Architectures
-- Real-Time Streaming Pipelines
-- Cloud-Native Engineering
-- Scalable Python Backend Systems
-- AI Orchestration & Retrieval Architectures
+- AI Infrastructure & LLM Platforms
+- Streaming Data Pipelines
+- High-Performance Backend Systems
+- Cloud-Native Platform Engineering
+- Real-Time AI & Retrieval Architectures
+
+Currently focused on designing scalable intelligent systems that bridge AI orchestration, streaming architectures, and enterprise-grade platform engineering.
 
 ---
 
-## 🚀 Current Focus Areas
+# 🚀 Current Engineering Focus
 
-- Production-grade AI systems & LLM orchestration
-- Real-time streaming architectures using Kafka/Event Hubs
-- Distributed compute pipelines using Spark & Databricks
-- Scalable FastAPI + GraphQL platforms
+- Production-grade GenAI systems
+- Agentic AI architectures
+- AI orchestration platforms
+- Streaming AI pipelines using Kafka/Event Hubs
+- Distributed compute systems with Spark & Databricks
+- High-concurrency Python backend systems
+- Retrieval-Augmented Generation (RAG)
 - AI observability & evaluation systems
-- Event-driven cloud-native systems on Kubernetes
-- High-concurrency backend engineering
-- Platform engineering for intelligent enterprise systems
+- Cloud-native distributed architectures on Kubernetes
 
 ---
 
-## 🧠 Engineering Philosophy
+# 🧠 Engineering Philosophy
 
 I enjoy building systems that are:
 
 - Scalable by design
 - Observable and resilient
 - Event-driven and loosely coupled
+- Performance-oriented
 - Cloud-native and automation-first
-- Built for extensibility and platform reuse
+- Built for long-term extensibility
 
-I’m particularly interested in the intersection of:
-AI systems, distributed computing, streaming architectures, platform engineering, and intelligent data systems.
+My interests sit at the intersection of:
+AI systems, distributed computing, platform engineering, intelligent orchestration, and scalable data infrastructure.
 
 ---
 
 # ⚙️ Core Technologies
+
+## AI & LLM Engineering
+- OpenAI APIs
+- LangChain
+- LangGraph
+- RAG Systems
+- Agentic AI
+- LLM Fine-Tuning
+- LoRA / DPO
+- Gemini
+- Vertex AI
+- Ollama
+- MLX
+- RAGAS
 
 ## Backend & APIs
 - Python
 - FastAPI
 - Strawberry GraphQL
 - AsyncIO
+- Java / Spring Boot
 - REST APIs
-- gRPC
+- Microservices
 
-## Distributed Systems
+## Distributed Systems & Streaming
 - Kafka
 - Azure Event Hubs
+- Apache Beam
+- GCP Dataflow
 - Redis
-- Celery
-- RabbitMQ
 - Event-Driven Architectures
+- High-Concurrency Systems
 
-## Data & AI Platforms
+## Data & Compute Platforms
 - Spark
-- Delta Lake
+- PySpark
 - Databricks
+- Delta Lake
 - PostgreSQL
 - MongoDB
-- Vector Databases
-
-## AI Engineering
-- OpenAI APIs
-- Llama Models
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & Orchestration
+- BigQuery
+- Cosmos DB
+- Qdrant
 
 ## Cloud & Infrastructure
-- Microsoft Azure
+- Azure
+- GCP
+- AWS
 - Kubernetes
 - Docker
+- Podman
+- Terraform
 - GitHub Actions
 - Azure DevOps
-- Terraform
 
 ## Observability & Reliability
 - Prometheus
 - Grafana
 - OpenTelemetry
 - Distributed Tracing
+- Circuit Breakers
+- Exponential Backoff
 - Structured Logging
 
 ---
 
-# 🏗 Featured Systems & Platforms
+# 🏗 Featured AI & Distributed Systems Projects
 
-## 🔹 AI Streaming Intelligence Platform
-Real-time AI enrichment pipeline using Kafka, FastAPI, Spark, and LLM APIs for scalable event processing and intelligent workflow orchestration.
+## 🔹 ToolForge — Spec-Driven LLM Fine-Tuning Platform
+Production-grade fine-tuning pipeline for Llama 3.2 3B using LoRA + DPO with CI-driven behavioral evaluation and OpenAI-compatible inference APIs.
 
 ### Highlights
-- Event-driven architecture
-- Streaming ingestion pipelines
-- Async processing
-- Distributed compute
-- AI inference orchestration
-- Kubernetes deployment
+- Achieved 95%+ tool-calling accuracy
+- Built custom DPO trainer in MLX
+- Reduced memory footprint by 50%
+- CI-based evaluation framework
+- Production inference APIs using FastAPI
+- 373 unit tests across pipeline stages
+
+🔗 github.com/shawnk1188/toolforge
 
 ---
 
-## 🔹 Enterprise RAG Architecture
-Scalable retrieval platform supporting vector search, async ingestion pipelines, document chunking, metadata indexing, and intelligent retrieval orchestration.
+## 🔹 DocPilot — Production RAG Platform
+Enterprise-grade RAG architecture with hybrid retrieval, reranking pipelines, evaluation systems, and observability tooling.
 
 ### Highlights
-- RAG pipelines
-- Vector embeddings
-- Retrieval optimization
-- LLM orchestration
-- Multi-source ingestion
-- Observability & tracing
+- Improved retrieval accuracy from 0.465 → 0.992
+- Hybrid BM25 + vector retrieval
+- Cross-encoder reranking
+- Continuous evaluation pipelines
+- Prometheus + Grafana observability
+- Qdrant vector architecture
+
+🔗 github.com/shawnk1188/docpilot
 
 ---
 
-## 🔹 AI Agent Runtime Framework
-Multi-agent orchestration runtime with memory layers, workflow coordination, tool execution, and streaming task processing.
+## 🔹 LLM Task Manager — Agentic AI Runtime
+Conversational task management platform powered by agentic workflows, typed tool execution, persistent session orchestration, and streaming APIs.
 
 ### Highlights
-- Agent orchestration
-- Stateful workflows
-- Tool execution framework
-- Memory systems
-- Async task coordination
+- Google ADK agent framework
+- Persistent multi-turn session management
+- Tool orchestration runtime
+- Redis-backed state management
+- Containerized deployment architecture
+
+🔗 github.com/shawnk1188/llm-task-manager
 
 ---
 
-## 🔹 Cloud-Native API Platform
-Scalable FastAPI + GraphQL backend deployed on Kubernetes with CI/CD automation, observability, and event-driven integrations.
+## 🔹 Lumina AI — Local LLM Inference Engine
+Production-grade local inference engine supporting async orchestration, structured output extraction, and multi-model execution pipelines.
 
 ### Highlights
-- FastAPI & GraphQL
-- Kubernetes-native deployment
-- Horizontal scalability
-- CI/CD pipelines
-- Monitoring & tracing
+- Multi-model async orchestration
+- Structured LLM outputs using Pydantic v2
+- Benchmarking engine for latency/throughput
+- Deterministic inference lifecycle management
+- Zero cloud dependency
+
+🔗 github.com/shawnk1188/lumina-ai
+
+---
+
+# 💼 Professional Experience Highlights
+
+## Walmart Global Tech / Sam's Club
+- Built stateful multi-agent debugging systems using LangGraph & LangChain
+- Developed real-time data pipelines processing terabytes of data
+- Contributed to systems driving $750M incremental eCommerce sales
+- Engineered resilient distributed microservices with observability tooling
+- Built PySpark pipelines for low-latency distributed processing
+
+## American Airlines
+- Led asynchronous Python streaming systems using FastAPI & Azure Event Hubs
+- Improved API performance by 50% using Redis caching & rate limiting
+- Developed scalable GraphQL APIs supporting millions of users
+
+## USAA
+- Led migration from monolithic systems to Kafka Streams event-driven architectures
+- Designed secure distributed microservices with OAuth2/CyberArk integration
 
 ---
 
 # 📐 Areas I Care Deeply About
 
-- Distributed systems design
 - AI infrastructure engineering
+- Distributed systems design
 - Event-driven architectures
 - Platform engineering
+- Streaming data systems
 - Scalability & performance optimization
-- Reliability engineering
-- Observability & tracing
-- Concurrency models
+- High-concurrency backend systems
+- Observability & reliability engineering
 - Technical leadership & mentoring
 - Engineering strategy
 
 ---
 
+# 📊 Certifications
+
+- Google Cloud Professional Cloud Architect
+- Generative AI Leader (Google)
+- AWS Developer Associate
+- Machine Learning Specialization
+- Generative AI with LLMs
+
+---
+
 # ✍️ Currently Exploring
 
-- AI platform engineering patterns
+- AI orchestration runtimes
 - Streaming AI architectures
-- High-concurrency Python systems
-- AI observability & evaluation
-- Retrieval optimization systems
-- Agent orchestration frameworks
+- Agent memory systems
+- AI evaluation frameworks
 - Cost-efficient inference systems
-- AI workflow runtimes
+- AI observability & tracing
+- Retrieval optimization
+- Platform engineering for AI systems
 
 ---
 
-# 📊 Engineering Interests
+# 🤝 Open To Collaborating On
 
-```text
-AI Infrastructure      ████████████████████
-Distributed Systems    ████████████████████
-Platform Engineering   ██████████████████
-Streaming Architectures██████████████████
-Cloud Native Systems   ██████████████████
-Scalable APIs          ██████████████████
-Observability          ████████████████
-```
-
----
-
-# 🤝 Collaboration
-
-I enjoy collaborating on:
-- AI platform engineering
+- AI infrastructure platforms
 - Distributed backend systems
-- Streaming data architectures
-- Cloud-native infrastructure
-- Open-source engineering
-- Scalable API platforms
+- Streaming architectures
+- Cloud-native engineering
+- Intelligent orchestration systems
 - Developer platforms & tooling
+- Open-source AI systems
 
 ---
 
 # 📫 Connect With Me
 
 - GitHub: https://github.com/shawnk1188
-- LinkedIn: https://www.linkedin.com/in/sukak/
+- LinkedIn: Add your LinkedIn profile
+- Portfolio/Blog: Add your website/blog
 
 ---
 
 # 🚀 Long-Term Direction
 
-Building scalable AI-enabled distributed systems that bridge:
+Building scalable AI-enabled distributed platforms that combine:
 - intelligent orchestration
-- real-time data platforms
+- real-time streaming systems
 - cloud-native infrastructure
 - enterprise AI workflows
 - developer productivity platforms
 
-Always learning. Always building.
+Always building. Always learning.
